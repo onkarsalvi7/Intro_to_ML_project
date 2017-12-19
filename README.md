@@ -6,6 +6,8 @@ In this project I have created a tic-tac-toe learning bot using reinforcement le
 Instructions to run the code:
 
 1. Open Anaconda (Terminal for Linux users) go to the directory in which the files are saved and enter the following line on the terminal:
+      
+      python.exe Tic_tac_toe.py
 
 2. Once you run that line the bot will start playing with another bot for about 50,000 games. This will take a few minutes. This is the learning process of the bot.
 
