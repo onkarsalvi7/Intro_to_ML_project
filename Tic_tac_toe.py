@@ -4,6 +4,14 @@ Created on Fri Nov 10 23:56:52 2017
 
 """
 
+'''
+I followed some steps from the link given below to guide me for the Tic Tac Toe Environment. 
+But I didn't copy the code as it is from there.
+The link consists a code for tic tac toe game using Artificial Intelligence Algorithm for playing against the Human.
+My code uses Reinforcement learning algorithm for playing the game.
+
+Link: https://inventwithpython.com/chapter10.html
+'''
 import numpy as np
 import matplotlib.pyplot as plt
 
